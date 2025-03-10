@@ -1,7 +1,5 @@
-
 ## README para el Frontend
 
-```markdown
 # Frontend de la Aplicación de Gestión de Notas
 
 Interfaz de usuario desarrollada con Next.js, React y TailwindCSS para la gestión de notas personales.
@@ -37,9 +35,13 @@ Interfaz de usuario desarrollada con Next.js, React y TailwindCSS para la gesti�
 
 ```bash
 npm install
+```
 
+### 2. Configurar Variables de Entorno
 
-```.env
+Crear un archivo `.env` en la raíz del proyecto con el siguiente contenido:
 
+```env
 NEXT_PUBLIC_API_URL=http://localhost:3001  
-NEXT_PUBLIC_APP_URL=http://localhost:3000  
+NEXT_PUBLIC_APP_URL=http://localhost:3000
+```
