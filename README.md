@@ -1,7 +1,3 @@
-## README para el Proyecto de Gestión de Notas (Dividido)
-
-Voy a crear dos README separados para tu proyecto, uno para el frontend y otro para el backend, ya que los estás desarrollando en carpetas diferentes.
-
 ## README Principal (para la raíz del proyecto)
 
 # Aplicación de Gestión de Notas Personales
